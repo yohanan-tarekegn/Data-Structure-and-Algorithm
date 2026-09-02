@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 
 ### brute force
 
