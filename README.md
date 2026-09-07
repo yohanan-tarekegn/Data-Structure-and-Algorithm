@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (1)
-- [implementation](#implementation) (4)
+- [brute force](#brute-force) (2)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -38,6 +38,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [JavaScript](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ### implementation
 
@@ -45,6 +46,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 
@@ -60,6 +62,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/yohanan-tarekegn/Data-Structure-and-Algorithm/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ---
 
